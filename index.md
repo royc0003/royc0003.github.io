@@ -1,6 +1,6 @@
 Hey there, thanks for stopping by! 
 
-This is an attempt to document my journey in life, and how I live life to the fullest with God by taking the leap of faith in all that I do. And I hope to share with you my adventure. 
+This is an attempt to document my journey in life, and how I live life to the fullest with God by taking the leap of faith in all that I do. And I hope to share my adventure with you. 
 
 I am Royce. I majored in Computer Science and have just graduated from the Nanyang Technological University of Singapore, class of 2023. 
 
