@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! One interesting fact about me is I was biculturally raised. I was born in Singapore, but raised in Myanmar the first 12 years of my life. The dichotomy between the two cultures might have contributed to my strong desire to drive innovation and impact within marginalized communities. Currently, I am exploring opprotunites to innovate at the intersection of healthcare and technology.
+Hello! One interesting fact about me is I was biculturally raised. I was born in Singapore, but raised in Myanmar the first 10 years of my life. The dichotomy between the two cultures might have contributed to my strong desire to drive innovation and impact within marginalized communities. Currently, I am exploring opprotunites to innovate at the intersection of healthcare and technology.
 
 On a lighter note, I enjoy hiking, gymming and running. Recently, I've taken interest in bouldering. I genuinely think that bouldering is a sport for SWEs to congregate.
 
